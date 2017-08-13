@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title:  "Ubuntu 16.04 VMWare: Fullscreen Fix"
+description: "Using Ubuntu 16.04 in fullscreen mode on VMWare installed on Windows 10."
+date:   2016-08-11 11:06:33
+tags: [vmware, ubuntu16.04, fullscreen]
+comments: true
+share: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+There will be many of you not interested in dual-booting Ubuntu with Windows but still need to use both. So was the case with me and I went on for the obvious solution i.e. using a Ubuntu virtual machine on a Windows host. I use **VMWare Workstation 12 player** along with a **Ubuntu 16.04 LTS** _64-bit_ virtual machine installed in it. After the install and entering the full screen mode the screen looked something like this: 
